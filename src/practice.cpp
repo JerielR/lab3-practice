@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-    cout << "La vaca";
+    cout << "La practica";
     cout << "Probando el push";
     return 0;
     
